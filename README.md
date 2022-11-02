@@ -4,7 +4,7 @@ This repository is used to document my journey on getting a better foundational 
 
 I want to become a successful DevOps engineer:sparkling_heart:
 
-In this path  will equip me with the key concepts and technical know-how to build your skills and knowledge of DevOps practices, tools and technologies and prepare me for an entry-level role in Software Engineering. 
+In this path  will equip me with the key concepts and technical know-how to build my skills and knowledge of DevOps practices, tools and technologies and prepare me for an entry-level role in Software Engineering. 
 
 
 To achieve this goal I follow two courses,:bookmark_tabs:

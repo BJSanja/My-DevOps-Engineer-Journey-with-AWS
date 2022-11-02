@@ -49,11 +49,11 @@ To achieve this goal I follow two courses,:bookmark_tabs:
 
 ### :two: Become an AWS Data and DevOps Specialist (Linkedin learning platform) :trophy:
 
-- :eight_spoked_asterisk: AWS Essential Training for Architects
-- :eight_spoked_asterisk: AWS: Monitoring and Reporting
-- :eight_spoked_asterisk: Amazon Web Services: Data Services
-- :eight_spoked_asterisk: AWS for DevOps: Monitoring, Metrics, and Logging
-- :eight_spoked_asterisk: AWS for DevOps: High Availability and Elasticity
+- :eight_spoked_asterisk: [AWS Essential Training for Architects](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20an%20AWS%20Data%20and%20DevOps%20Specialist/1.AWS%20Essential%20Training%20for%20Architects)
+- :eight_spoked_asterisk: [AWS: Monitoring and Reporting](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20an%20AWS%20Data%20and%20DevOps%20Specialist/2.AWS:%20Monitoring%20and%20Reporting)
+- :eight_spoked_asterisk: [Amazon Web Services: Data Services](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20an%20AWS%20Data%20and%20DevOps%20Specialist/3.Amazon%20Web%20Services:%20Data%20Services)
+- :eight_spoked_asterisk: [AWS for DevOps: Monitoring, Metrics, and Logging](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20an%20AWS%20Data%20and%20DevOps%20Specialist/4.AWS%20for%20DevOps:%20Monitoring%2C%20Metrics%2C%20and%20Logging)
+- :eight_spoked_asterisk: [AWS for DevOps: High Availability and Elasticity](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20an%20AWS%20Data%20and%20DevOps%20Specialist/5.AWS%20for%20DevOps:%20High%20Availability%20and%20Elasticity)
 
 
 

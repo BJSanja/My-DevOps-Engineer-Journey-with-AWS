@@ -19,41 +19,41 @@ To achieve this goal I follow two courses,:bookmark_tabs:
 
 ### :one: Become a DevOps Engineer (Linkedin learning platform) :trophy:
 
-- DevOps Foundations
-- Learning Ansible
-- Learning Puppet
-- Learning Chef
-- Learning Docker
-- DevOps Foundations: Continuous Delivery/Continuous Integration
-- Learning Jenkins
-- Learning Software Version Control
-- DevOps Foundations: Lean and Agile
-- Lean Technology Strategy: Running Agile at Scale
-- Lean Technology Strategy: Building High-Performing Teams
-- Lean Technology Strategy: Starting Your Business Transformation
-- Lean Technology Strategy: Moving Fast With Defined Constraints
-- DevOps Foundations: DevSecOps (2018)
-- DevOps Foundations: Infrastructure as Code
-- DevSecOps: Building a Secure Continuous Delivery Pipeline
-- DevSecOps: Automated Security Testing
-- DevOps Foundations: Monitoring and Observability
-- Learning the Elastic Stack
-- Learning Nagios
-- Graphite and Grafana: Visualizing Application Performance
-- DevOps Foundations: Site Reliability Engineering
-- Learning Kubernetes
-- Kubernetes: Cloud Native Ecosystem
-- Kubernetes: Microservices
+- :eight_pointed_black_star: DevOps Foundations
+- :eight_pointed_black_star: Learning Ansible
+- :eight_pointed_black_star: Learning Puppet
+- :eight_pointed_black_star: Learning Chef
+- :eight_pointed_black_star: Learning Docker
+- :eight_pointed_black_star: DevOps Foundations: Continuous Delivery/Continuous Integration
+- :eight_pointed_black_star: Learning Jenkins
+- :eight_pointed_black_star: Learning Software Version Control
+- :eight_pointed_black_star: DevOps Foundations: Lean and Agile
+- :eight_pointed_black_star: Lean Technology Strategy: Running Agile at Scale
+- :eight_pointed_black_star: Lean Technology Strategy: Building High-Performing Teams
+- :eight_pointed_black_star: Lean Technology Strategy: Starting Your Business Transformation
+- :eight_pointed_black_star: Lean Technology Strategy: Moving Fast With Defined Constraints
+- :eight_pointed_black_star: DevOps Foundations: DevSecOps 
+- :eight_pointed_black_star: DevOps Foundations: Infrastructure as Code
+- :eight_pointed_black_star: DevSecOps: Building a Secure Continuous Delivery Pipeline
+- :eight_pointed_black_star: DevSecOps: Automated Security Testing
+- :eight_pointed_black_star: DevOps Foundations: Monitoring and Observability
+- :eight_pointed_black_star: Learning the Elastic Stack
+- :eight_pointed_black_star: Learning Nagios
+- :eight_pointed_black_star: Graphite and Grafana: Visualizing Application Performance
+- :eight_pointed_black_star: DevOps Foundations: Site Reliability Engineering
+- :eight_pointed_black_star: Learning Kubernetes
+- :eight_pointed_black_star: Kubernetes: Cloud Native Ecosystem
+- :eight_pointed_black_star: Kubernetes: Microservices
 
 
 
 ### :two: Become an AWS Data and DevOps Specialist (Linkedin learning platform) :trophy:
 
-- AWS Essential Training for Architects
-- AWS: Monitoring and Reporting
-- Amazon Web Services: Data Services
-- AWS for DevOps: Monitoring, Metrics, and Logging
-- AWS for DevOps: High Availability and Elasticity
+- :eight_spoked_asterisk: AWS Essential Training for Architects
+- :eight_spoked_asterisk: AWS: Monitoring and Reporting
+- :eight_spoked_asterisk: Amazon Web Services: Data Services
+- :eight_spoked_asterisk: AWS for DevOps: Monitoring, Metrics, and Logging
+- :eight_spoked_asterisk: AWS for DevOps: High Availability and Elasticity
 
 
 

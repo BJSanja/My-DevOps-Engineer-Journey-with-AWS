@@ -19,31 +19,31 @@ To achieve this goal I follow two courses,:bookmark_tabs:
 
 ### :one: Become a DevOps Engineer (Linkedin learning platform) :trophy:
 
-- :eight_pointed_black_star: DevOps Foundations
-- :eight_pointed_black_star: Learning Ansible
-- :eight_pointed_black_star: Learning Puppet
-- :eight_pointed_black_star: Learning Chef
-- :eight_pointed_black_star: Learning Docker
-- :eight_pointed_black_star: DevOps Foundations: Continuous Delivery/Continuous Integration
-- :eight_pointed_black_star: Learning Jenkins
-- :eight_pointed_black_star: Learning Software Version Control
-- :eight_pointed_black_star: DevOps Foundations: Lean and Agile
-- :eight_pointed_black_star: Lean Technology Strategy: Running Agile at Scale
-- :eight_pointed_black_star: Lean Technology Strategy: Building High-Performing Teams
-- :eight_pointed_black_star: Lean Technology Strategy: Starting Your Business Transformation
-- :eight_pointed_black_star: Lean Technology Strategy: Moving Fast With Defined Constraints
-- :eight_pointed_black_star: DevOps Foundations: DevSecOps 
-- :eight_pointed_black_star: DevOps Foundations: Infrastructure as Code
-- :eight_pointed_black_star: DevSecOps: Building a Secure Continuous Delivery Pipeline
-- :eight_pointed_black_star: DevSecOps: Automated Security Testing
-- :eight_pointed_black_star: DevOps Foundations: Monitoring and Observability
-- :eight_pointed_black_star: Learning the Elastic Stack
-- :eight_pointed_black_star: Learning Nagios
-- :eight_pointed_black_star: Graphite and Grafana: Visualizing Application Performance
-- :eight_pointed_black_star: DevOps Foundations: Site Reliability Engineering
-- :eight_pointed_black_star: Learning Kubernetes
-- :eight_pointed_black_star: Kubernetes: Cloud Native Ecosystem
-- :eight_pointed_black_star: Kubernetes: Microservices
+- :eight_pointed_black_star: [DevOps Foundations](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/1.DevOps%20Foundations)
+- :eight_pointed_black_star: [Learning Ansible](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/2.Learning%20Ansible)
+- :eight_pointed_black_star: [Learning Puppet](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/3.Learning%20Puppet)
+- :eight_pointed_black_star: [Learning Chef](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/4.Learning%20Chef)
+- :eight_pointed_black_star: [Learning Docker](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/5.Learning%20Docker)
+- :eight_pointed_black_star: [DevOps Foundations: Continuous Delivery/Continuous Integration](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/6.DevOps%20Foundations-Continuous%20Delivery-Continuous%20Integration)
+- :eight_pointed_black_star: [Learning Jenkins](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/7.Learning%20Jenkins)
+- :eight_pointed_black_star: [Learning Software Version Control](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/8.Learning%20Software%20Version%20Control)
+- :eight_pointed_black_star: [DevOps Foundations: Lean and Agile](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/9.DevOps%20Foundations:%20Lean%20and%20Agile)
+- :eight_pointed_black_star: [Lean Technology Strategy: Running Agile at Scale](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/10.Lean%20Technology%20Strategy:%20Running%20Agile%20at%20Scale)
+- :eight_pointed_black_star: [Lean Technology Strategy: Building High-Performing Teams](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/11.Lean%20Technology%20Strategy:%20Building%20High-Performing%20Teams)
+- :eight_pointed_black_star: [Lean Technology Strategy: Starting Your Business Transformation](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/12.Lean%20Technology%20Strategy:%20Starting%20Your%20Business%20Transformation)
+- :eight_pointed_black_star: [Lean Technology Strategy: Moving Fast With Defined Constraints](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/13.Lean%20Technology%20Strategy:%20Moving%20Fast%20With%20Defined%20Constraints)
+- :eight_pointed_black_star: [DevOps Foundations: DevSecOps](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/14.DevOps%20Foundations:%20DevSecOps) 
+- :eight_pointed_black_star: [DevOps Foundations: Infrastructure as Code](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/15.DevOps%20Foundations:%20Infrastructure%20as%20Code)
+- :eight_pointed_black_star: [DevSecOps: Building a Secure Continuous Delivery Pipeline](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/16.DevSecOps:%20Building%20a%20Secure%20Continuous%20Delivery%20Pipeline)
+- :eight_pointed_black_star: [DevSecOps: Automated Security Testing](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/17.DevSecOps:%20Automated%20Security%20Testing)
+- :eight_pointed_black_star: [DevOps Foundations: Monitoring and Observability](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/18.DevOps%20Foundations:%20Monitoring%20and%20Observability)
+- :eight_pointed_black_star: [Learning the Elastic Stack](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/19.Learning%20the%20Elastic%20Stack)
+- :eight_pointed_black_star: [Learning Nagios](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/20.Learning%20Nagios)
+- :eight_pointed_black_star: [Graphite and Grafana: Visualizing Application Performance](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/21.Graphite%20and%20Grafana:%20Visualizing%20Application%20Performance)
+- :eight_pointed_black_star: [DevOps Foundations: Site Reliability Engineering](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/22.DevOps%20Foundations:%20Site%20Reliability%20Engineering)
+- :eight_pointed_black_star: [Learning Kubernetes](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/23.Learning%20Kubernetes)
+- :eight_pointed_black_star: [Kubernetes: Cloud Native Ecosystem](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/24.Kubernetes:%20Cloud%20Native%20Ecosystem)
+- :eight_pointed_black_star: [Kubernetes: Microservices](https://github.com/BJSanja/My-DevOps-Engineer-Journey/blob/main/Become%20a%20DevOps%20Engineer/25.Kubernetes:%20Microservices)
 
 
 
